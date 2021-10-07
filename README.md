@@ -1,6 +1,6 @@
-# getx_route_management
+# getx_route_management.
 
-A new Flutter project.
+Added Controller, it's lifecycle.
 
 ## Getting Started
 
